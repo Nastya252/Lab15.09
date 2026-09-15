@@ -56,4 +56,4 @@ Console.Write("Введите ваше имя: ");
 string name = Console.ReadLine();
 Console.Write("Введите вашу фамилию: ");
 string lastName = Console.ReadLine();
-Console.WriteLine($"{lastName} {name}.");
+Console.WriteLine($"{lastName} {name[0]}.");
