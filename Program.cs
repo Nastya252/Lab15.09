@@ -40,15 +40,14 @@ Console.WriteLine($"decimal: 0.1 + 0.2 = {priceDecimal}");
 
 
 
-Console.Write("Введите ваш рост в метрах: ");
-string heightInput = Console.ReadLine();
-double hheight = Convert.ToDouble(heightInput);
-
-Console.Write("Введите ваш вес в килограммах: ");
-string weightInput = Console.ReadLine();
-double wweight = Convert.ToDouble(weightInput);
-
-Console.WriteLine($"Рост: {hheight}, Вес: {wweight}"); // <-- диагностика
-
+// калькулятор имт
+Console.Write("Введите ваш рост");
+string height = Console.ReadLine();
+double hheight = Convert.ToDouble(height);
+Console.Write("Введите ваш вес");
+string weight = Console.ReadLine();
+double wweight = Convert.ToDouble(weight);
 double imt = wweight / (hheight * hheight);
 Console.WriteLine($"ИМТ: {imt:F2}");
+
+
