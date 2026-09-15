@@ -12,3 +12,4 @@ C:\Users\Настёна\Documents\Lab15.09\Lab02\obj\Debug\net10.0\refint\Lab02.
 C:\Users\Настёна\Documents\Lab15.09\Lab02\obj\Debug\net10.0\Lab02.pdb
 C:\Users\Настёна\Documents\Lab15.09\Lab02\obj\Debug\net10.0\Lab02.genruntimeconfig.cache
 C:\Users\Настёна\Documents\Lab15.09\Lab02\obj\Debug\net10.0\ref\Lab02.dll
+C:\Users\Настёна\Documents\Lab15.09\Lab02\obj\Debug\net10.0\Lab02.sourcelink.json
