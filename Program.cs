@@ -51,3 +51,9 @@ double imt = wweight / (hheight * hheight);
 Console.WriteLine($"ИМТ: {imt:F2}");
 
 
+//разбор фио через char
+Console.Write("Введите ваше имя: ");
+string name = Console.ReadLine();
+Console.Write("Введите вашу фамилию: ");
+string lastName = Console.ReadLine();
+Console.WriteLine($"{lastName} {name}.");
