@@ -110,14 +110,14 @@ double imt = wweight / (hheight * hheight);
 Console.WriteLine($"ИМТ: {imt:F4}");
 
 
-// //разбор фио через char
+//разбор фио через char
 Console.Write("Введите ваше имя: ");
 string name = Console.ReadLine();
 Console.Write("Введите вашу фамилию: ");
 string lastName = Console.ReadLine();
 Console.WriteLine($"{lastName} {name[0]}.");
 
-// //TryParse на трёх типах
+//TryParse на трёх типах
 Console.Write("Введите число ");
 string first = Console.ReadLine();
 bool firstint = int.TryParse(first, out int firstresult);
