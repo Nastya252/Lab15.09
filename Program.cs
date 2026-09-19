@@ -52,22 +52,22 @@ Console.WriteLine($"{fullName}, возраст {studentAge}, средний ба
 
 
 // калькулятор имт
-// Console.Write("Введите ваш рост");
-// string height = Console.ReadLine();
-// double hheight = Convert.ToDouble(height);
-// Console.Write("Введите ваш вес");
-// string weight = Console.ReadLine();
-// double wweight = Convert.ToDouble(weight);
-// double imt = wweight / (hheight * hheight);
-// Console.WriteLine($"ИМТ: {imt:F4}");
+Console.Write("Введите ваш рост");
+string height = Console.ReadLine();
+double hheight = Convert.ToDouble(height);
+Console.Write("Введите ваш вес");
+string weight = Console.ReadLine();
+double wweight = Convert.ToDouble(weight);
+double imt = wweight / (hheight * hheight);
+Console.WriteLine($"ИМТ: {imt:F4}");
 
 
 //разбор фио через char
-// Console.Write("Введите ваше имя: ");
-// string name = Console.ReadLine();
-// Console.Write("Введите вашу фамилию: ");
-// string lastName = Console.ReadLine();
-// Console.WriteLine($"{lastName} {name[0]}.");
+Console.Write("Введите ваше имя: ");
+string name = Console.ReadLine();
+Console.Write("Введите вашу фамилию: ");
+string lastName = Console.ReadLine();
+Console.WriteLine($"{lastName} {name[0]}.");
 
 //TryParse на трёх типах
 Console.Write("Введите число ");
