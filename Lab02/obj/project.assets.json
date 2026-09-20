@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Настёна\\Documents\\Lab15.09\\Lab02\\Lab02.csproj",
+      "projectUniqueName": "C:\\Users\\Настёна\\Documents\\Lab02_Ponomareva\\Lab02\\Lab02.csproj",
       "projectName": "Lab02",
-      "projectPath": "C:\\Users\\Настёна\\Documents\\Lab15.09\\Lab02\\Lab02.csproj",
+      "projectPath": "C:\\Users\\Настёна\\Documents\\Lab02_Ponomareva\\Lab02\\Lab02.csproj",
       "packagesPath": "C:\\Users\\Настёна\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Настёна\\Documents\\Lab15.09\\Lab02\\obj\\",
+      "outputPath": "C:\\Users\\Настёна\\Documents\\Lab02_Ponomareva\\Lab02\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
